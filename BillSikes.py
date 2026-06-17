@@ -23,7 +23,7 @@ class Example(Frame):
         self.area_kite_active=False
         self.area_parallelogram_active=False
         self.area_trapezium_active=False
-        self.theorem_active=False
+        self.theorem_active=False 
         self.calc_active=False
         
         self.initUI()
