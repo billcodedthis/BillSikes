@@ -26,7 +26,7 @@ class Example(Frame):
         self.theorem_active=False 
         self.calc_active=False
         
-        self.initUI()
+        self.initUI() 
 
 
     def initUI(self):
