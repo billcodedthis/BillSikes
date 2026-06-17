@@ -16,7 +16,7 @@ class Example(Frame):
         self.circle_calculator_active = False
         self.square_root_active = False
         self.circumference_active=False
-        self.area_rectangle_active=False
+        self.area_rectangle_active=False 
         self.area_square_active=False 
         self.area_triangle_active=False
         self.area_rhombus_active=False
