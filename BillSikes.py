@@ -17,7 +17,7 @@ class Example(Frame):
         self.square_root_active = False
         self.circumference_active=False
         self.area_rectangle_active=False 
-        self.area_square_active=False 
+        self.area_square_active=False  
         self.area_triangle_active=False
         self.area_rhombus_active=False
         self.area_kite_active=False
